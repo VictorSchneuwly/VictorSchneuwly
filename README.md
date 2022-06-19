@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSchneuwly&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![](https://raw.githubusercontent.com/VictorSchneuwly/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VictorSchneuwly/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
