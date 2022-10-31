@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSchneuwly&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 ![](https://raw.githubusercontent.com/VictorSchneuwly/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/VictorSchneuwly/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+-->
 
+![](http://img3.wikia.nocookie.net/__cb20150201050424/pokemon/images/2/23/Abra_XY.gif)
