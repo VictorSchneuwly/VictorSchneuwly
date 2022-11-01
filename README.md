@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/VictorSchneuwly/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 -->
 
-![](http://img3.wikia.nocookie.net/__cb20150201050424/pokemon/images/2/23/Abra_XY.gif)
+![](./ctorvi_abra.gif)
